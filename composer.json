@@ -1,0 +1,18 @@
+{
+    "name": "edw_2425/cours",
+    "autoload": {
+        "psr-4": {
+            "Edw2425\\Cours\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DfrtJulien",
+            "email": "de.freitas.julien78@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.20",
+        "ext-mongodb": "*"
+    }
+}
